@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
